@@ -1,0 +1,28 @@
+python ex8-revisited.py 
+Password: 
+SSH connection established to 184.105.247.70:22
+Interactive SSH session established
+
+
+
+################################################################################
+184.105.247.70 
+logging count
+logging buffered 9272
+no logging console
+################################################################################
+
+
+
+SSH connection established to 184.105.247.71:22
+Interactive SSH session established
+
+
+
+################################################################################
+184.105.247.71 
+logging count
+logging buffered 9272
+no logging console
+################################################################################
+
